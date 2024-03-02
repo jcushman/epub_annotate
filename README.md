@@ -2,7 +2,7 @@
 
 ![Middlemarch cover with "Annotated and Improved" cut off on the right side](cover.jpg)
 
-[download ebook](annotated_george-eliot_middlemarch.epub)
+[download ebook](annotated_george-eliot_middlemarch.epub?raw=1)
 
 This is an experiment in augmenting epub files with playful LLM-generated annotations.
 The code currently runs just on George Eliot's _Middlemarch_ via [Standard Ebooks](https://standardebooks.org/ebooks/george-eliot/middlemarch).
